@@ -2,6 +2,5 @@
 Simple animation project
 
 
-
-https://user-images.githubusercontent.com/31934552/142899228-1e1efc43-e5f8-4aea-b34c-d3ac3c994712.MP4
+![IMG_2606](https://user-images.githubusercontent.com/31934552/142899425-47e3a0e6-fe00-4f36-a70c-3182b0c9071d.gif)
 
